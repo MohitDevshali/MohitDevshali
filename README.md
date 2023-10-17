@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mohit Devshali</h1>
 <h3 align="center">Passionate DevOps Engineer | Cloud Enthusiast | India 🚀</h3>
 
-- 🌱 I’m currently learning **Azure DevOps**
+
 
 - 📫 How to reach me **tech.mohitdev@gmail.com**
 
