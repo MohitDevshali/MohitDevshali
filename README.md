@@ -3,7 +3,7 @@
 
 
 
-- 📫 How to reach me **tech.mohitdev@gmail.com**
+- 📫 How to reach me **cloud.dev.mohit@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
